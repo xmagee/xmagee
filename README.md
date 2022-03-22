@@ -1,6 +1,8 @@
 <h3 align="center">Alex Magee</h3>
 <h4 align="center"><i>Software Developer</i></h4>
 
+<p align="center"><a href="https://xmagee.com">Homepage</a> | <a href="https://github.com/xmagee/resume/releases/download/2022.3.20.1/resume.pdf">Resume PDF</a></p>
+
 -----
 
 <p align="center">C# | Javascript | Sql | Linux | VB.NET | Rust | Windows | en_US<p>
