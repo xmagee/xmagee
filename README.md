@@ -1,7 +1,7 @@
 <h3 align="center">Alex Magee</h3>
 <h4 align="center"><i>Software Developer</i></h4>
 
-<p align="center"><a href="https://xmagee.com">Homepage</a> | <a href="https://github.com/xmagee/resume/releases/download/2022.3.26.1/resume.pdf">Resume PDF</a></p>
+<p align="center"><a href="https://xmagee.com">Homepage</a> | <a href="https://github.com/xmagee/resume/releases/latest/download/resume.pdf">Resume</a></p>
 
 -----
 
